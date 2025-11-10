@@ -2,8 +2,9 @@
 primeiro dia aprendendo cybersegurança ou hack etico 
 
 
-![Uploading image.png…]()
+<img width="1757" height="831" alt="image" src="https://github.com/user-attachments/assets/749e73cf-f6e5-4607-b4ea-2f55dcb0b3ef" />
 
+![Uploading image.png…]()
 
 # 🛡️ Minha Jornada em Cibersegurança
    
