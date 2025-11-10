@@ -2,7 +2,7 @@
 primeiro dia aprendendo cybersegurança ou hack etico 
 
 
-<img width="1757" height="831" alt="image" src="https://github.com/user-attachments/assets/749e73cf-f6e5-4607-b4ea-2f55dcb0b3ef" />
+<img width="1744" height="855" alt="image" src="https://github.com/user-attachments/assets/0c7cb7d2-88c5-4b8e-8b0d-e26b066d530e" />
 
 ![Uploading image.png…]()
 
