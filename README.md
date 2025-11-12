@@ -343,7 +343,8 @@ Ao final das 3 horas, você deve ter:
 ## 📝 TEMPLATE PARA REGISTRO DIÁRIO (COPIE ISTO)
 dia 3 jornada cybersegurança
 
-![Uploading image.png…]()
+[Captura de tela_12-11-2025_193440_tryhackme com](https://github.com/user-attachments/assets/93067115-ab1b-4f07-b68b-3394a232699b)
+
 
 **Cole isto no Notion TODO DIA após estudar:**
 ```
