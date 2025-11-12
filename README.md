@@ -4,7 +4,7 @@ primeiro dia aprendendo cybersegurança ou hack etico
 
 <img width="1744" height="855" alt="image" src="https://github.com/user-attachments/assets/0c7cb7d2-88c5-4b8e-8b0d-e26b066d530e" />
 
-![Uploading image.png…]()
+<img width="1566" height="820" alt="image" src="https://github.com/user-attachments/assets/7fb1ae63-83ae-4b88-9b37-71a6b937d8a2" />
 
 # 🛡️ Minha Jornada em Cibersegurança
    
@@ -341,39 +341,9 @@ Ao final das 3 horas, você deve ter:
 ---
 
 ## 📝 TEMPLATE PARA REGISTRO DIÁRIO (COPIE ISTO)
+dia 3 jornada cybersegurança
+
+![Uploading image.png…]()
 
 **Cole isto no Notion TODO DIA após estudar:**
 ```
-## Dia [X] - [DATA]
-
-⏰ Tempo: [X] horas
-
-### ✅ Tarefas Completadas:
-- 
-- 
-- 
-
-### 📝 Principais Aprendizados:
-- 
-- 
-- 
-
-### 🔧 Ferramentas Usadas:
-- 
-- 
-
-### 🤔 Dúvidas/Dificuldades:
-- 
-- 
-
-### 🎯 Amanhã vou:
-- 
-- 
-- 
-
-### 💡 Insights:
-[Algo que clicou na cabeça, conexão que fez, etc]
-
----
-Humor: 😊😐😞 [escolha um]
-Energia: ⚡⚡⚡⚡⚡ [5 raios = máxima]
